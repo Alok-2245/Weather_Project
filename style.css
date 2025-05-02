@@ -1,0 +1,40 @@
+.card{
+    width: 90%;
+    max-width: 10%;
+    background:linear-gradient(135deg,#06d19b,#020107);
+    color: #fff;
+    margin: 50px auto 0;
+    border-radius: 20px;
+    padding: 10px 200px;
+    text-align: center;
+
+}
+.search{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin
+}
+.search input{
+    border: 0;
+    outline: 0;
+    background: #03fcf8;
+    color: #555;
+    padding: 10px 25px;
+    height: 40px;
+    border-radius: 34px;
+    flex: 1;
+    margin-right 16px;
+    font-size: 18px;
+}
+.search button{
+    border:0;
+    outline: 0;
+    background: #f0eced;
+    border-radius: 40%;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+
+}
